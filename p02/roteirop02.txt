@@ -1,0 +1,14 @@
+
+Logo  abaixo da última linha do programa,  acrescente os comandos  necessários  para que o programa faça as seguintes tarefas:
+
+
+-  imprimir as informações sobre a instituição, organizadas em dois blocos:
+
+  -   o   primeiro   bloco   com   o   nome,   número   de   alunos   de   graduação,   a   relação candidatos por vaga e a área do campus;
+
+  -   o   segundo   bloco   exibindo   a   informação   da   área   do   campus   em   diferentes  formatos.
+
+
+- na sequência o programa deverá solicitar ao usuário 3 informações: nome, curso e ano de entrada.
+
+- finalmente o programa deverá calcular e informar o período que o usuário está cursando.
