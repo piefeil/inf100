@@ -1,7 +1,7 @@
 
 # Projetos de Introdução à Programação I (INF100)
 
-Em Engenharia Elétrica, na Universidade Federal de Viçosa (UFV), meu atual curso, existe a matéria Introdução à Programação I (INF100). Esse repositório contém meus exercícios e seus respectivos roteiros. 
+Em Engenharia Elétrica, na Universidade Federal de Viçosa (UFV), meu atual curso, existe a matéria Introdução à Programação I (INF100). Esse repositório contém meus exercícios e provas com seus respectivos roteiros. 
 ## Autor
 
 - [@piefeil](https://www.github.com/piefeil)
